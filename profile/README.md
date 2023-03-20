@@ -8,6 +8,8 @@ surprised if you find here repositories with code in Kotlin, Swift or Dart 😉.
 We are happy to hear from you, either by opening issues or going a step further and implementing 
 changes yourself!
 
+Please notice that by contributing to Karlmax Berlin, you agree that your contributions will be licensed under its MIT license.
+
 ### Creating a pull request
 
 To create a pull request you have to fork the repository, implement your changes and create a pull request 
